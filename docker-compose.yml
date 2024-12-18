@@ -1,0 +1,5 @@
+services:
+  spring-boot-starter-app:
+    build: .
+    ports:
+      - "8080:8080"
